@@ -1,0 +1,12 @@
+/Users/antonio/Projects/Stack/Stack/bin/Debug/netcoreapp3.1/Stack.deps.json
+/Users/antonio/Projects/Stack/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.json
+/Users/antonio/Projects/Stack/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.dev.json
+/Users/antonio/Projects/Stack/Stack/bin/Debug/netcoreapp3.1/Stack.dll
+/Users/antonio/Projects/Stack/Stack/bin/Debug/netcoreapp3.1/Stack.pdb
+/Users/antonio/Projects/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.csprojAssemblyReference.cache
+/Users/antonio/Projects/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfoInputs.cache
+/Users/antonio/Projects/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfo.cs
+/Users/antonio/Projects/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.csproj.CoreCompileInputs.cache
+/Users/antonio/Projects/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.dll
+/Users/antonio/Projects/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.pdb
+/Users/antonio/Projects/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.genruntimeconfig.cache
